@@ -218,13 +218,6 @@ samhæfingu skólastarfs við útfærslu sameiginlegrar menntastefnu. Námskrái
 er ein meginforsenda þess að mennta- og menningarmálaráðuneytið geti gegnt
 lögboðnu hlutverki sínu við að annast yfirstjórn og eftirlit með gæðum og
 framkvæmd skólastarfs.
-```
-# 1
-
-
-**AÐALNÁMSKRÁ GRUNNSKÓLA 2011  ALMENNUR HLUTI**
-
-```
 •	 Aðalnámskrá markar starfsramma stjórnenda, kennara og starfsfólks einstakra
 skóla við skipulagningu, framkvæmd og mat á skólastarfi sem þeim er skylt að
 útfæra, m .a. í skólanámskrá.
@@ -235,7 +228,7 @@ nemendum og foreldrum þeirra upplýsingar um menntun barna og ungmenna á
 hverju skólastigi. Námskráin er einnig til hliðsjónar fyrir þá sem annast menntun
 kennara og annars starfsfólks skóla svo og þá sem vinna við gerð námsgagna,
 stunda rannsóknir og annast úttektir á skólastarfi.
-```
+
 ## 1 .1 Sameiginlegur hluti aðalnámskrár
 
 Ýmsir þættir sem fjallað er um í aðalnámskrá eru sameiginlegir leikskóla, grunnskóla og
@@ -266,11 +259,6 @@ eins.
 
 Meginhlutverk leikskóla, grunnskóla og framhaldsskóla er að stuðla að almennri menntun
 þegnanna. Skólarnir skulu leitast við að haga störfum sínum í sem fyllstu samræmi
-
-
-```
-Mennta- og menningarmálaráðuneyti
-```
 við stöðu og þarfir barna og ungmenna. Skólastarfið miðar að virkri þátttöku þeirra í
 lýðræðissamfélagi innan skólans og utan.
 
@@ -313,10 +301,6 @@ vinnureglur og hvetjandi námsumhverfi.
 og óbein áhrif á skólakerfið og þá um leið nám nemenda og störf kennara. Hvort sem
 litið er til efnahags og atvinnumála, félagsmála og fólksflutninga, tækni og samskipta
 má finna deiglu og breytingar sem hafa áhrif á menningarlíf og þekkingu, menntun
-
-
-**AÐALNÁMSKRÁ GRUNNSKÓLA 2011  ALMENNUR HLUTI**
-
 og uppeldi. Það má til sanns vegar færa að breytingar í íslensku samfélagi undanfarin
 ár hafi verið mjög hraðar og því aukast kröfur til skóla um að aðstoða samfélagið við
 að átta sig á breytingunum og takast á við nýjar aðstæður. Allt þetta eykur kröfur til
@@ -328,10 +312,6 @@ aðstæður og sérstaka áherslu á hverju skólastigi. Það er á ábyrgð ke
 faglegan hátt í kennslu sinni og öðru skólastarfi fyrirmæli menntalaga og þá stefnu sem
 birtist í aðalnámskrá.
 
-
-```
-Mennta- og menningarmálaráðuneyti
-```
 ## 2 ALMENN MENNTUN
 
 ```
@@ -2499,19 +2479,15 @@ helstu viðburðir skólaársins og vettvangsferðir,
 opnunartíma skólans, viðveru sérfræðinga, mötuneyti, forföll og leyfi.
 ```
 
-```
-AÐALNÁMSKRÁ GRUNNSKÓLA 2011  ALMENNUR HLUTI
-```
-## 13 ÁBYRGÐ OG SKYLDUR NEMENDA, STARFSFÓLKS OG FORELDRA
 
-**STARFSFÓLKS OG FORELDRA**
+## 13 ÁBYRGÐ OG SKYLDUR NEMENDA, STARFSFÓLKS OG FORELDRA
 
 Mikilvægt er að allir í skólasamfélaginu kappkosti í sameiningu að stuðla að og viðhalda
 góðum starfsanda og jákvæðum skólabrag sem felur í sér gagnkvæmt traust, virðingu
 og samábyrgð þar sem öryggi, vellíðan, heilbrigðar og hollar lífsvenjur eru hafðar að
 leiðarljósi.
 
-## 13 .1 Ábyrgð nemenda og skyldur
+## 13.1 Ábyrgð nemenda og skyldur
 
 Hér er fjallað um ábyrgð nemenda og skyldur en þessi hugtök eru nátengd. Ekki er
 hægt að fjalla um skyldur nemenda án þess að fjalla jafnframt um ábyrgð. Réttindum
@@ -2520,7 +2496,7 @@ samábyrgð. Hér er bæði átt við að nemandinn sem einstaklingur beri ábyr
 og gjörðum sínum annars vegar og hins vegar samábyrgð þar sem hann er hluti af hópi/
 samfélagi og er þar með samábyrgur öðrum í hópnum/samfélaginu.
 
-## 13 .1 .1 Ábyrgð nemenda á eigin námi
+## 13.1.1 Ábyrgð nemenda á eigin námi
 
 Áhersla er lögð á að nemendur læri að bera ábyrgð á eigin námi og venji sig sem fyrst
 á gott vinnulag. Ábyrgðarkennd nemenda þroskast eftir því sem þeim gefst kostur á
@@ -2528,13 +2504,6 @@ að velja viðfangsefni og taka ákvarðanir um eigið nám þannig að það ve
 merkingarbært. Það geta þeir gert innan þeirra marka sem aldur þeirra og þroski leyfir.
 Ætlast er til að nemendur í grunnskóla taki slíkar ákvarðanir, allt frá byrjun skólagöngu.
 Ábyrgð vex því aðeins að nemendur venjist á að taka ákvarðanir og standa við þær, bæði
-
-# 13
-
-
-```
-Mennta- og menningarmálaráðuneyti
-```
 ákvarðanir sem nemandinn tekur einn og í samráði við aðra. Sama á við um námsaðferðir
 sem þeir temja sér en nauðsynlegt er að nemendur eigi sem mest val um þær á öllum
 aldri. Nemendur skulu eiga möguleika á að beita mismunandi aðferðum við nám sitt og
@@ -2544,8 +2513,8 @@ setja í einstökum námsgreinum og námssviðum, hvort sem þau er að finna í
 eða í skólanámskrá viðkomandi skóla. Þá eiga nemendur samkvæmt grunnskólalögum
 og viðmiðunarstundaskrá val um námsgreinar og námssvið, einkum á unglingastigi.
 
-## 13 .1 .2 Ábyrgð nemenda á framkomu og samskiptum
-
+## 13.1.2 Ábyrgð nemenda á framkomu og samskiptum
+ 
 Mikilvægt er að nemendur hafi ekki einungis skyldur gagnvart eigin námi heldur einnig
 allri framkomu sinni og hegðun í skóla. Þetta á við um ýmsa þætti í umgengni við félaga,
 starfsfólk og fjölmarga aðra sem þeir umgangast innan skóla sem utan. Nemendur bera
@@ -2577,19 +2546,16 @@ Nemendur eiga fulltrúa í skólaráði og mikilvægt er að þeir leiti eftir s
 samnemenda og hafi tækifæri til að fylgja eftir hagsmunamálum þeirra í skólaráðinu.
 Miða þarf starfshætti í skólaráði við að nemendur geti tekið virkan þátt í starfi þess.
 
+## 13.2 Ábyrgð og skyldur starfsfólks
 
-**AÐALNÁMSKRÁ GRUNNSKÓLA 2011  ALMENNUR HLUTI**
-
-## 13 .2 Ábyrgð og skyldur starfsfólks
-
-## 13 .2 .1 Fagmennska og alúð
+## 13.2.1 Fagmennska og alúð
 
 Í því felst að starfsfólk komi til móts við náms- og félagslegar þarfir nemenda og sinni þeim
 af alúð. Þetta gerir starfsfólk með því að ígrunda starfið reglulega, leita nýrra leiða, afla
 sér nýrrar þekkingar og sýna þannig stöðuga viðleitni til að læra og gera betur. Mikilvægt
 er að starfsfólk sýni nærgætni við nemendur, foreldra og samstarfsfólk í hvívetna.
 
-## 13 .2 .2 Jákvæður skólabragur
+## 13.2.2 Jákvæður skólabragur
 
 Stjórnendum skóla, kennurum og öðru starfsfólki ber í starfi sínu að stuðla að jákvæðum
 skólabrag og starfsanda í öllu skólastarfi með velferð nemanda og öryggi að leiðarljósi.
@@ -2601,7 +2567,7 @@ jákvæð samskipti, sáttfýsi, umburðarlyndi og kurteisi. Einnig skal lögð 
 styrkja sjálfsmynd nemenda, efla sjálfsvirðingu þeirra og virðingu gagnvart öðrum, eigum
 annarra og umhverfinu.
 
-## 13 .2 .3 Þagmælska
+## 13.2.3 Þagmælska
 
 Mikilvægt er að starfsfólk gæti fyllstu þagmælsku um hagi barna í öllum samskiptum við
 þau, foreldra þeirra og starfsfólk innanhúss sem utan. Starfsfólki ber að gæta trúnaðar
@@ -2609,7 +2575,7 @@ um þau atriði sem það fær vitneskju um og snertir nemendur eða foreldra þ
 hag nemenda að leiðarljósi. Þessi þagmælska nær þó ekki til þeirra atvika sem ber að
 tilkynna lögreglu eða barnaverndaryfirvöldum samkvæmt lögum.
 
-## 13 .3 Ábyrgð og skyldur foreldra
+## 13.3 Ábyrgð og skyldur foreldra
 
 Eins og fram kemur í grunnskólalögum bera foreldrar ábyrgð á uppeldi barna sinna og
 bera ábyrgð á að þau innritist í skóla þegar þau komast á skólaskyldualdur og sæki skóla.
