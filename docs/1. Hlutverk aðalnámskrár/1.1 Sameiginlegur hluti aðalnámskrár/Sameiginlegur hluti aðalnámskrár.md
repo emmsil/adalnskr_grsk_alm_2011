@@ -1,4 +1,4 @@
-## 1 .1 Sameiginlegur hluti aðalnámskrár
+## 1.1 Sameiginlegur hluti aðalnámskrár
 
 Ýmsir þættir sem fjallað er um í aðalnámskrá eru sameiginlegir leikskóla, grunnskóla og
 framhaldsskóla. Kaflar 1-3 eru sameiginlegir í námskrám skólastiganna þriggja en þar er

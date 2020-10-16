@@ -1,4 +1,4 @@
-## 1 .3 Fagmennska kennara
+## 1.3 Fagmennska kennara
 
 Kennarar gegna lykilhlutverki í öllu skólastarfi. Kennarastéttin spannar mörg hlutverk í
 skólakerfinu, s .s. kennslu, stjórnun, uppeldi, ráðgjöf, rannsóknir og þróunarstörf. Þannig
