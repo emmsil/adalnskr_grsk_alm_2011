@@ -1,0 +1,14 @@
+# Sidebar navigation
+
+- label: 'Formáli'
+  link: '/'
+- label: 'Inngangur'
+  link: '/inngangur'
+- label: '1. Hlutverk aðalnámskrár'
+  items:
+    - label: '1.1 Sameiginlegur hluti aðalnámskrár'
+      link: '/1. Hlutverk aðalnámskrár/1.1 Sameiginlegur hluti aðalnámskrár/Sameiginlegur hluti aðalnámskrár'
+    - label: '1.2 Hlutverk skóla'
+      link: '/1. Hlutverk aðalnámskrár/1.2 Hlutverk skóla/Hlutverk skóla'
+    - label: '1.3 Fagmennska kennara'
+      link: '/1. Hlutverk aðalnámskrár/1.3 Fagmennska kennara/Fagmennska kennara'
